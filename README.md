@@ -235,8 +235,8 @@ GET /ordens-servico
 | Model de Ordem de Serviço   | ✅ Concluído           |
 | POST de Ordem de Serviço    | ✅ Concluído           |
 | GET de Ordens de Serviço    | ✅ Concluído           |
-| Frontend React              | 🚧 Em desenvolvimento |
-| Formulário de criação de OS | 🚧 Em desenvolvimento |
+| Frontend React              | ✅ Concluído           |
+| Formulário de criação de OS | ✅ Concluído  |
 | Listagem de OS              | ⏳ Pendente            |
 | Alteração de status         | ⏳ Pendente            |
 | Técnico assumir OS          | ⏳ Pendente            |
